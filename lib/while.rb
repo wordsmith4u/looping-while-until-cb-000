@@ -5,3 +5,4 @@ while levitation_force < 10
   counter += 1
 end
 	#your code here
+end
